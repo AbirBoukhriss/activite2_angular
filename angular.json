@@ -38,6 +38,7 @@
             ],
             "styles": [
               "src/styles.css"
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [],
             "server": "src/main.server.ts",
@@ -107,5 +108,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "e9dfadf2-1800-479c-b09d-d7414a075d92"
   }
 }
